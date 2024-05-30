@@ -4,7 +4,6 @@ Tags: movies, database, custom post type, TMDb
 Requires at least: 5.2
 Tested up to: 5.7
 Requires PHP: 7.4
-Stable tag: 1.0.0
 
 == Description ==
 A WordPress plugin to manage a movie database with custom post types and taxonomies. This plugin integrates with The Movie Database (TMDb) API to fetch and display movie data.
@@ -61,8 +60,6 @@ A WordPress plugin to manage a movie database with custom post types and taxonom
   * **admin-page.php**: Template for the admin settings page.
   * **single-movie.php**: Template for displaying individual movie details.
 * **languages/**: Contains translation files for the plugin.
-  * **movie-database-sr_RS.mo**: Compiled translation file for Serbian.
-  * **movie-database-sr_RS.po**: Source translation file for Serbian.
 
 == Deinstallation Instructions ==
 To uninstall the Movie Database plugin:
